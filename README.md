@@ -24,4 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<ul>
+<li>E-mail: mohammedazadalideveloper@gmail.com</li>
+<li>Mobile: +91 6369172940</li>
+<li>City  : Salem</li>
+</ul>
 </p>
