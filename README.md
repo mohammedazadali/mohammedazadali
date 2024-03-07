@@ -12,7 +12,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p style="display:flex;"> 
+<p style="display: flex; align-items: flex-start;"> 
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="100" height="40"/> </a>
 
