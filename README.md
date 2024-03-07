@@ -63,18 +63,18 @@
 <tbody>
 <tr>
 <td>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedazadali&show_icons=true&locale=en&layout=compact" alt="mohammedazadali" width='300px' height='250px'/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedazadali&show_icons=true&locale=en&layout=compact" alt="mohammedazadali" /></p>
 </td>
 <td>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mohammedazadali&show_icons=true&locale=en" alt="mohammedazadali" width='300px' height='250px'/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mohammedazadali&show_icons=true&locale=en" alt="mohammedazadali" /></p>
 
 </td>
 </tr>
 <tr>
 <td>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedazadali&" alt="mohammedazadali" width='300px' height='250px'/></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedazadali&" alt="mohammedazadali" /></p>
 
 </td>
 </tr>
