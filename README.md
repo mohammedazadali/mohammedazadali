@@ -98,7 +98,7 @@ Got a project in mind or need a tech enthusiast on your team? I’m always up fo
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <ul>
-<li>E-mail: mohammedazadalideveloper@gmail.com</li>
+<li>E-mail: <a href='mohammedazadalideveloper@gmail.com'>mohammedazadalideveloper@gmail.com</a></li>
 <li>Mobile: +91 6369172940</li>
 <li>City  : Salem</li>
 </ul>
