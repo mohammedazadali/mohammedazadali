@@ -3,6 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedazadali&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedazadali" /> </p>
 
+<h3 align="left">About Me</h3>
+<p>
+👋 Hey there! I’m a programming enthusiast who thrives on creating seamless web experiences. With a toolkit that spans Python, Java, and JavaScript, and a passion for frameworks like React, Node.js, and Angular js, I live to code solutions that matter. 🚀
+
+My journey took off in Coimbatore, where as an intern, I didn’t just watch; I made things happen. Improving site performance by 30%? Check. Cutting down bounce rates by 15%? Done. It’s about creating experiences, not just websites. 💻
+
+Crafting user experiences that delight and technologies that empower is what I do. From perfecting loads with React to decoding data with MongoDB, every line of code is a step towards a smarter web. 🌍
+
+I believe in the power of technology to transform and simplify. Whether it’s making garbage classification smarter using deep learning or crafting user interfaces that speak volumes, I’m your go-to. 🚀
+
+Got a project in mind or need a tech enthusiast on your team? I’m always up for a challenge! Hit the connect button, and let’s make magic happen. ✨
+</p>
+
 - 🔭 I’m currently working on **Plantdr(A lef disease prediction web application)**
 
 - 🌱 I’m currently learning **Node Js,Flask**
@@ -63,7 +76,7 @@
 <tbody>
 <tr>
 <td>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedazadali&show_icons=true&locale=en&layout=compact" alt="mohammedazadali" style="background:black;"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedazadali&show_icons=true&locale=en&layout=compact" alt="mohammedazadali" /></p>
 </td>
 <td>
 
