@@ -12,7 +12,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p style="display: flex; align-items: flex-start;"> 
+<p style="display: flex; align-items: flex-start; gap:20;"> 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
