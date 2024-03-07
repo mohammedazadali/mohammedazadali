@@ -59,7 +59,7 @@
 
 <h3 align='left'>Github Stats:</h3>
 
-<div style="display: flex; align-items: flex-start; column-gap:20;">
+<div style="display: flex; flex-direction:row; column-gap:20;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedazadali&show_icons=true&locale=en&layout=compact" alt="mohammedazadali"  height='200px'/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedazadali&show_icons=true&locale=en" alt="mohammedazadali" height='200px'/></p>
