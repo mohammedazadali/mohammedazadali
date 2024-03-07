@@ -18,11 +18,11 @@
 
 <h3 align='left'>Github Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedazadali&show_icons=true&locale=en&layout=compact" alt="mohammedazadali" width='200px' height='200px'/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedazadali&show_icons=true&locale=en&layout=compact" alt="mohammedazadali" width='100%' height='200px'/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedazadali&show_icons=true&locale=en" alt="mohammedazadali" width='200px' height='200px'/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedazadali&show_icons=true&locale=en" alt="mohammedazadali" width='100%' height='200px'/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedazadali&" alt="mohammedazadali" width='200px' height='200px'/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedazadali&" alt="mohammedazadali" width='100%' height='200px'/></p>
 
 
 
