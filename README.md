@@ -16,8 +16,6 @@ I believe in the power of technology to transform and simplify. Whether it’s m
 Got a project in mind or need a tech enthusiast on your team? I’m always up for a challenge! Hit the connect button, and let’s make magic happen. ✨
 </p>
 
-- 🔭 I’m currently working on **Plantdr(A lef disease prediction web application)**
-
 - 🌱 I’m currently learning **Node Js,Flask**
 
 - 💬 Ask me about **MERN STACK,Python,Flask**
